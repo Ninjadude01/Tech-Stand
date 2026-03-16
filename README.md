@@ -8,4 +8,4 @@ Here is the front of the stand (phone holder):
 ![front](Pictures%20of%20Project/Screenshot%202026-03-16%20143010.png)
 
 Here is the back of the stand (airpod holder):
-![Back](Pictures%20of%20Project/Screenshot%202026-03-16%20143018.png)
+
